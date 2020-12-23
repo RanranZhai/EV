@@ -9,5 +9,5 @@ Pascal user mannual and relative paper can be found <https://www2.unil.ch/cbg/in
 
 Here, we used a different reference genome from TWINSUK
 ```
-  ./Pascal --pval=resources/GIANT/your_file.txt --customdir=resources/TWINSUK.and.ALSPAC --custom=TWINSUK.and.ALSPAC
+./Pascal --pval=resources/GIANT/your_file.txt --customdir=resources/TWINSUK.and.ALSPAC --custom=TWINSUK.and.ALSPAC
 ```
